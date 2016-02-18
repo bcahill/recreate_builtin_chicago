@@ -1,0 +1,80 @@
+
+
+header{
+	background-color: #294062;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 300;
+}
+
+.brand, .navigation, .post-search, .sign-up-log-in{
+	display: inline-block;
+	padding-top: 17px;
+	padding-bottom: 17px;
+	vertical-align: top;
+	margin-right: 20px;
+}
+
+.brand{
+	background-image: url("../images/built-in-logo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 22px;
+	width: 140px;
+	margin-right: 40px;
+}
+
+.post-search{
+	margin-right: 60px;
+}
+
+li{
+	display: inline-block;
+}
+
+.nav-items>li{
+	padding-right: 15px;
+}
+
+.nav-items>li>a{
+	text-transform: uppercase;
+	color: #f0f0f0;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.post-search a{
+	color: #f0f0f0;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.sign-up-log-in a{
+	color: #f0f0f0;
+	text-decoration: none;
+	text-transform: lowercase;
+	font-weight: 700;
+	font-size: 13px;
+}
+
+.post{
+	background-color: #798190;
+	padding: 5px;
+	font-size: 14px;
+	margin-right: 50px;
+}
+
+.search{
+	text-transform: uppercase;
+}
+
+.fa-user-plus, .fa-search{
+	color: #f0f0f0;
+	padding-right: 5px;
+}
+
+
+
+.signup-login-list li{
+	padding-right: 10px;
+}
